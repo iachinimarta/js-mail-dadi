@@ -2,7 +2,7 @@ const email0 = "nome@email.it";
 const email1 = "nome1@email.it";
 const email2 = "nome2@email.it";
 
-const list = [ email0, email1, email2];
+const list = [email0, email1, email2];
 console.log(list);
 
 let addEmail = prompt("Inserisci la tua email..");
